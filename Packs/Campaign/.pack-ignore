@@ -1,9 +1,0 @@
-
-[file:incidentfield-Actions_On_Campaign_Incidents.json]
-ignore=IF100
-
-[file:incidentfield-Incidents_Info.json]
-ignore=IF100
-
-[file:incidentfield-Select_Campaign_Incidents.json]
-ignore=IF100

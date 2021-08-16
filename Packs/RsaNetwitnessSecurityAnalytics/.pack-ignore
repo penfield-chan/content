@@ -1,8 +1,0 @@
-[file:integration-RsaNetwitnessSecurityAnalytics.yml]
-ignore=IN126
-
-[file:README.md]
-ignore=RM106
-
-[file:script-NetwitnessSACreateIncident_README.md]
-ignore=RM106
